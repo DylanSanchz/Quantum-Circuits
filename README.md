@@ -20,7 +20,7 @@ O objetivo do repositório é apresentar de forma clara e reprodutível os princ
 
 O relatório final da disciplina está disponível no arquivo:
 
-`Relatorio_Computacao_Quantica.pdf`
+`Circuitos Quanticos.pdf`
 
 ## Execução dos códigos
 
