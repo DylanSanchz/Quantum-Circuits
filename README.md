@@ -9,11 +9,9 @@ O objetivo do repositório é apresentar de forma clara e reprodutível os princ
 ## Conteúdo
 
 - Circuitos básicos e estados de Bell
-- Algoritmo de Deutsch
 - Algoritmo de Deutsch-Jozsa
 - Algoritmo de Bernstein-Vazirani
 - Algoritmo de Simon
-
 - Visualizações de circuitos e histogramas de medição
 
 ## Relatório
