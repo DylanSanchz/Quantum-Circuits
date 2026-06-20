@@ -1,4 +1,4 @@
-# Computação-Quantica
+# Computação-Quântica
 Códigos e relatório desenvolvidos na disciplina de Computação Quântica, incluindo circuitos básicos, algoritmos quânticos canônicos e exemplos variacionais em Qiskit, PennyLane e Google Colab.
 # Computação Quântica — Códigos, Notebooks e Relatório
 
@@ -36,5 +36,4 @@ As principais bibliotecas utilizadas foram:
 
 ## Autor
 
-Dylan  
-Disciplina de Computação Quântica
+Dylan Rafael Sanchez Salinas
